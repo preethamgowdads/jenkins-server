@@ -1,2 +1,2 @@
 # jenkins-server
-My jenkins practicing repository
+Jenkins have fetched this file
